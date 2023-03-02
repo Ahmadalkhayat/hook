@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/hook/static/js/main.a884f4d9.js",
+    "index.html": "/hook/index.html",
+    "main.a884f4d9.js.map": "/hook/static/js/main.a884f4d9.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a884f4d9.js"
+  ]
+}
